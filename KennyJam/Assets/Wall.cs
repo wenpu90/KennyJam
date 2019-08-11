@@ -5,6 +5,7 @@ using UnityEngine;
 public class Wall : MonoBehaviour
 {
     public Transform monsterPoint;
+    public Vector3 monsVector3;
     public static Wall Instance;
     public bool WallBool;
     public Collider boxCollider;
@@ -14,7 +15,7 @@ public class Wall : MonoBehaviour
     {
         Instance = this;
         WallBool = true;
-        Instantiate(monsters[Random.Range(0,monsters.Length)],monsterPoint);
+        GameObject go = Instantiate(monsters[Random.Range(0,monsters.Length)],monsterPoint);
     }
     private void Update()
     {

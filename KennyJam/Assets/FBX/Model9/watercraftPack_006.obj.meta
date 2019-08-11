@@ -23,6 +23,11 @@ ModelImporter:
     2100010: Yellow_metal
     2100012: Grey_metal_1
     2100014: Glass
+    2100016: Mesh1_Container_4_Group1_ModelMat
+    2100018: Mesh2_Container_1_Group1_ModelMat
+    2100020: Mesh3_Container_2_Group1_ModelMat
+    2100022: Mesh4_Container_3_Group1_ModelMat
+    2100024: Mesh5_Group1_ModelMat
     2300000: Mesh1_Container_4_Group1_Model
     2300002: Mesh2_Container_1_Group1_Model
     2300004: Mesh3_Container_2_Group1_Model

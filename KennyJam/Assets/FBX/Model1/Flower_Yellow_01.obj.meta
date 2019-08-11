@@ -17,6 +17,11 @@ ModelImporter:
     400010: Mesh5_Flower_Yellow_Model
     2100000: Green_leafs
     2100002: Water
+    2100004: Mesh1_Flower_Yellow_ModelMat
+    2100006: Mesh2_Flower_Yellow_ModelMat
+    2100008: Mesh3_Flower_Yellow_ModelMat
+    2100010: Mesh4_Flower_Yellow_ModelMat
+    2100012: Mesh5_Flower_Yellow_ModelMat
     2300000: Mesh1_Flower_Yellow_Model
     2300002: Mesh2_Flower_Yellow_Model
     2300004: Mesh3_Flower_Yellow_Model

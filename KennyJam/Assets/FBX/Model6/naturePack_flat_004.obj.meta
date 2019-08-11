@@ -10,6 +10,8 @@ ModelImporter:
     400002: Mesh2_Grass_Model
     400004: //RootNode
     2100000: Green_leafs
+    2100002: Mesh1_Grass_ModelMat
+    2100004: Mesh2_Grass_ModelMat
     2300000: Mesh1_Grass_Model
     2300002: Mesh2_Grass_Model
     3300000: Mesh1_Grass_Model

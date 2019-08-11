@@ -22,6 +22,11 @@ ModelImporter:
     2100008: Wood
     2100010: Green_metal
     2100012: Glass
+    2100014: Mesh1_Group2_Group1_ModelMat
+    2100016: Mesh2_Group3_Group1_ModelMat
+    2100018: Mesh3_Group4_Group1_ModelMat
+    2100020: Mesh4_Group5_Group1_ModelMat
+    2100022: Mesh5_Group1_ModelMat
     2300000: Mesh1_Group2_Group1_Model
     2300002: Mesh2_Group3_Group1_Model
     2300004: Mesh3_Group4_Group1_Model
